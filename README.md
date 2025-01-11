@@ -2,7 +2,7 @@
 
 # dg-docker-image
 
-Docker image for [Dg programming language](https://pyos.github.io/dg/):
+Docker image for [Dg programming language](https://github.com/pyos/dg):
 
 - rzuckerm/dg:`<version>-<tag>`
 
